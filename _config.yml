@@ -1,29 +1,67 @@
-# Site Build Settings
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Arwen
+email: krysta.arwen@gmail.com
+description: An adventure time blog.
+url: https://krystaarwen.com # the base hostname & protocol for your site
+keywords: ["Blog", "Travel"]
 
-# Jekyll-paginate-v2 configuration
-#  pagination:
-#   enabled: true
-#   per_page: 5
-#   permalink: '/page/:num/'
-#   title: ':title - page :num of :max'
-#   limit: 0
-#   sort_field: 'date'
-#   sort_reverse: true
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/Paris
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
 
-# jekyll-paginate configuration
-paginate:            5
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 
-# Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
-
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'small fairy, big world'
-description:	       'a rarely updated blog about random adventures'
-author:              'Krysta Arwen'
-
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Arwen
+  avatar: profilePicture.jpg
+  job: 
+  bio: "A rarely updated blog of random adventures"
+  email: krysta.arwen@gmail.com
+  disqus-shortname: 
+  twitter:  #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics: UA-62251910-2
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  instagram: krysta_arwen #username
+  github: krysta-arwen #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  xing: #username
+  lastfm: #username
+  tumblr: krysta-arwen-blog #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+  telegram: #username

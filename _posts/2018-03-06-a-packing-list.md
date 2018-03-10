@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A Packing List, Everything plus The Kitchen Sink
+title: A Packing List, Everything Plus the Kitchen Sink
 excerpt: "Everything I brought for my 4 country, 5 week adventure!"
-categories: [journal]
-comments: true
+categories: [Packing]
+comments: false
 image:
  feature: https://i.imgur.com/C6yFAeml.jpg
 ---

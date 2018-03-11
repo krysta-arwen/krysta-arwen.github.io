@@ -1630,6 +1630,9 @@ section.post {
   border-radius: 0.4em;
   padding: 0.5em 1em; }
 
+.post-title {
+  text-decoration: underline; }
+
 .post-title-link {
   color: #42b983;
   font-size: 14px;
@@ -1712,7 +1715,6 @@ a.read-more {
 .post-image-feature {
   margin-bottom: 40px; }
   .post-image-feature .feature-image {
-    width: 100%;
     max-height: 500px; }
 
 .share-buttons {

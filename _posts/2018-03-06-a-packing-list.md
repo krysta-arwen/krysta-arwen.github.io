@@ -4,11 +4,11 @@ title: A Packing List, Everything Plus the Kitchen Sink
 excerpt: "Everything I brought for my 4 country, 5 week adventure!"
 categories: [Packing]
 comments: false
-image:
- feature: https://i.imgur.com/C6yFAeml.jpg
 ---
 
 The past few weeks have been a blur of running errands, making never ending lists, and trying to focus on school work. Preparing for this trip has been a little crazy as I've tried to balance having to carry a full set of camping gear along with clothes to keep me cozy through a chilly Japanese spring, fall in New Zealand, and a sunny Hawaii in April. In case anybody's curious here's everything I brought along (I am well aware I am bringning too many clothes).
+
+![Packing](https://i.imgur.com/CevJ8LGl.jpg)
 
 ## Clothes
 

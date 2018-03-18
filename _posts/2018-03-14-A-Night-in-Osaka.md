@@ -12,6 +12,6 @@ After spending some time in an internet cafe, Miranda and I headed to Osaka wher
 
 ![Ferris Wheel on top of Train Station](https://i.imgur.com/depBlyVm.jpg) ![Whale Inside of Train Station](https://i.imgur.com/3iFpcGUm.jpg) ![Miranda's Family and I](https://i.imgur.com/33IIbdmm.jpg)
 
-After I left her and her family I wandered the bar lined streets of Osaka, soaking up my last hours in Japan. In a karoake bar I met two waitresses from China and a Japanese business man with impressive English and they taught me how to say thank in Chinese for my layover the following day. In another I find a band playing live jazz. The pianist recently moved from Los Angeles, just 20 minutes from where I live now. It's such a strang, small world we live in.
+After I left her and her family I wandered the bar lined streets of Osaka, soaking up my last hours in Japan. In a karoake bar I met two waitresses from China and a Japanese business man with impressive English and they taught me how to say thank in Chinese for my layover the following day. In another I find a band playing live jazz. The pianist recently moved from Los Angeles, just 20 minutes from where I live now. It's such a strange, small world we live in.
 
 ![My Hotel Room](https://i.imgur.com/wEk2RY0m.jpg) ![Karaoke Bar in Osaka](https://i.imgur.com/mBo72slm.jpg) ![Live Music in Karaoke](https://i.imgur.com/fIj2soNm.jpg) ![Street Art in Osaka](https://i.imgur.com/lIFQhSGm.jpg))

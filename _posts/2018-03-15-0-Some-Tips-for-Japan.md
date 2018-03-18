@@ -10,6 +10,8 @@ image:
 
 * You will get lost, so give yourself an hour extra where ever you travel. The streets here are small and confusing. Google maps isn't as precise with directions as it is in the US. The train stations are huge and crowded. Definitely don't get upset about it, it's just a part of travelling here.
 
+* The past two times I've been to Japan I've had a pocket wifi. The first one was provided by the Air BnB my mom and I stayed at and the one I got this past time was from Ninja WiFi. It cost $54 for 7 days, I got a discount by following the link from this site: https://tokyocheapo.com/business/internet/rent-wifi-router-japan/ .
+
 * Stand on the right on escalators, walk on the left. It will be very obvious if you're standing on the wrong side.
 
 * Public restrooms are everywhere, it's a deam come true for a frequent peer like myself.
@@ -20,7 +22,7 @@ image:
 
 * Don't cross or spread your legs. The trains can get really crowded, and crossing or spreading your legs takes up space.
 
-* The past two times I've used a card called "PASMO". I've been able to us it on every line/subway I've gotten on to in Tokyo, as well as Kyoto and Osaka. I've even used it on the buses in Kyoto. It's a 500 yen deposit, and then you can fill it up any train station with as much money as you like. I don't know anything about the other passes out there, but I've been really pleased with this one.
+* The past two times I've used a card called "PASMO". I've been able to use it on every line/subway I've gotten onto in Tokyo, as well as Kyoto and Osaka. I've even used it on the buses in Kyoto. It's a 500 yen deposit, and then you can fill it up at any train station with as much money as you like. I don't know anything about the other passes out there, but I've been really pleased with this one.
 
 * DO NOT wear your shoes in houses. EVER. Not even for a second, not even to grab something you forgot, never. Just don't.
 
@@ -36,10 +38,8 @@ image:
 
 * People here don't walk and eat. If you buy some food, step to the side and finish it.
 
-* On that note, trash cans are super hard to come across. Japan has a complicated system for sorting their trash, so if you do find a trash can, make sure you put it in  the spot.
+* On that note, trash cans are super hard to come across. Japan has a complicated system for sorting their trash, so if you do find a trash can, make sure you put it in right the spot. Don't be a litterbug, just carry your trash with you.
 
-* If you visit a shrine follow their rules about shoes and photos even if nobody is watching. It's a priveledge to see this places, treat them with respect.
-
-* The past two times I've been to Japan I've had a pocket wifi. The first one was provided by the Air BnB my mom and I stayed at and the one I got this past time was from Ninja WiFi. It cost $54 for 7 days, I got a discount by following the link from this site: .
+* If you visit a shrine follow their rules about shoes and photos even if nobody is watching. It's a privilege to see this places, treat them with respect.
 
 * If you have no idea how to do something just watch the locals, they might even approach you to help if you're looking super lost.

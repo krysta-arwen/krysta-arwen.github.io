@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Milford Sound Days 2 and 3
-excerpt: "I continue my adventure in the Milford Sound"
+excerpt: "I continue my adventure in the Milford Sound."
 categories: [New Zealand]
 comments: false
 image:
@@ -12,7 +12,7 @@ We awoke to find the steady downpour the night before had left the surrounding m
 
 ![Kea!](https://i.imgur.com/QrBeGlsl.jpg) ![](https://i.imgur.com/ctWbQtkl.jpg)
 
-When I finally got to the Milford Sound I hopped in a kayak for a guided paddle and walk of the Milford Track. The kayak portion was much shorter than I would have liked, but the Milford Track was what I was really looking forward. We walked the last 5 km of the 4 day tramp to the Giants Gate Falls. While we were walking the clouds finally cleared and we caught a dark pink, orange sunset over the bay.
+When I finally got to the Milford Sound I hopped in a kayak for a guided paddle and walk of the Milford Track. The kayak portion was much shorter than I would have liked, but the Milford Track was what I was really looking forward to. We walked the last 5 km of the 4 day tramp to the Giants Gate Falls and Lake . While we were walking the clouds finally cleared and we caught a dark pink, orange sunset over the bay.
 
 ![Kayaking in a rainforest](https://i.imgur.com/VzQdiwll.jpg) ![Park of the Kayak Hike](https://i.imgur.com/U9jRYQzl.jpg) ![Giant's Gate](https://i.imgur.com/7p3Kb7El.jpg)
 

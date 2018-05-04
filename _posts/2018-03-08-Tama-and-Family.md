@@ -12,11 +12,11 @@ One uber, two bus rides and and an 11 hour flight later, I finally made it to my
 
 With them, I feel comfortable; I stayed in this apartment the last time I was here with my Mom and my "Aunt" Keiko and Uncle Mori are both fluent in English. When I wander outside of the apartment though, I feel out of place. At 5'7", I'm taller than most girls here and a lot of the guys. My family lives in a suburb of Tokyo and I haven't seen a single foreigner anywhere near here. As I leave my Uncle's apartment I hear a little asking her mom who I am. I keep forgetting to speak Japanese, and respond in English or give up on a sentence halfway through. There was a time when I seriously considered moving to Japan to teach English, but after spending a week here with my mother I felt too rude and restricted to ever live here.
 
-![Korochan](https://i.imgur.com/DE0HOV3m.jpg)
+![Korochan](https://i.imgur.com/DE0HOV3l.jpg)
 
 
 Today it rained all day, something that Los Angeles has been lacking this winter. I split the day with spending time with my cousin and uncle, and trying to finish homework before Miranda arrives. I got lost trying to find a cafe in Shibuya called Caffice . It's filled with other people working, and I even see a guy with a Randy's Donuts sticker on his laptop. The wifi is fast, but the coffee is expensive ($8 for a mocha!). Although I liked the workspace vibe, I'd probably find a cheaper place to work if I planned on staying more than a couple of hours.
 
-![KoheiAndMori](https://i.imgur.com/Rnwpy2qm.jpg)
+![KoheiAndMori](https://i.imgur.com/Rnwpy2ql.jpg)
 
 Miranda's bus arrived 40 minutes late most likely due to rain. My uncle, always accommadating, braved the cold and waited with me. After 30 hours of travelling, Miranda is ready to call it night and my jetlag catches up to me as well.

@@ -28,7 +28,7 @@ image:
 
 * Showering in Japan is one of my favorite things. You take a full shower before soaking in the tub, and then share the water with your family/friends you're sharing a room with. I know if sounds weird, but a nice soak at the end of a full day of adventures is a great way to reenergize.
 
-![My Family's Bathtub](https://i.imgur.com/Apcmp6Sm.jpg)
+![My Family's Bathtub](https://i.imgur.com/Apcmp6Sl.jpg)
 
 * Make sure your hair is dry before you leave the house unless you want a bunch of obaachans telling you you'll get sick.
 

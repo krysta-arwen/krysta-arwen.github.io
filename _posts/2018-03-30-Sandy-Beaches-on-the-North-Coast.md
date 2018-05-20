@@ -12,7 +12,7 @@ I made a sketchy escape from the muddy campsite that had trapped a camper van th
 
 ![Cove at the end of the hike](https://i.imgur.com/oqR4RpCl.jpg) ![Abel Tasman Park](https://i.imgur.com/cxUvw3rl.jpg)
 
-I made my way to Nelson and Tahunanai Beach, where I laid down a towel on the white sands and tried decide what to do the following day. This is probably one of the few nights I’ve stopped driving earlier than an hour before sunset, and it was nice to relax. I choose a campsite right in front of the beach and enjoyed a beautiful sunset while I ate my dinner. After talking with my neighbor from Colorado about fishing and my favorite hiking tracks I turned in for an early night.
+I made my way to Nelson and Tahunanai Beach, where I laid down a towel on the white sands and tried decide what to do the following day. This is probably one of the few nights I’ve stopped driving earlier than an hour before sunset, and it was nice to relax. I was starting to feel I probably could have spent my whole trip lounging on the sandy, warm beaches of the north coast. I choose a campsite right in front of the beach and enjoyed a beautiful sunset while I ate my dinner. After talking with my neighbor from Colorado about fishing and my favorite hiking tracks I turned in for an early night.
 
 ![Not a bad view](https://i.imgur.com/zM5PjjPl.jpg)
 
